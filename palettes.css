@@ -5,6 +5,7 @@
 .f-instrument-sans{font-family:"Instrument Sans", "Segoe UI", sans-serif}
 .f-inter{font-family:"Inter", "Segoe UI", system-ui, sans-serif}
 .f-dm-mono{font-family:"DM Mono", ui-monospace, monospace}
+.f-pt-mono{font-family:"PT Mono", ui-monospace, monospace}
 .f-eb-garamond{font-family:"EB Garamond", Georgia, serif}
 .f-alegreya-sans{font-family:"Alegreya Sans", "Segoe UI", sans-serif}
 .f-karla{font-family:"Karla", "Segoe UI", sans-serif}
@@ -67,3 +68,10 @@
 .p-website-audit .sw-4{--sw:#B8860B;--sw-grow:6;--sw-label:#242424}
 .p-website-audit .sw-5{--sw:#2F6F9F;--sw-grow:5;--sw-label:#FFFFFF}
 .p-website-audit .sw-6{--sw:#2E7D4F;--sw-grow:5;--sw-label:#FFFFFF}
+.p-on-call{--p-ground:#1A1F3D;--p-ink:#DCE3F2;--p-muted:#A3ADCF;--p-accent:#F2C14E;--p-on-accent:#1A1F3D;--p-display:"PT Mono", ui-monospace, monospace;--p-display-weight:400}
+.p-on-call .sw-0{--sw:#1A1F3D;--sw-grow:46;--sw-label:#FFFFFF}
+.p-on-call .sw-1{--sw:#DCE3F2;--sw-grow:16;--sw-label:#242424}
+.p-on-call .sw-2{--sw:#F2C14E;--sw-grow:12;--sw-label:#242424}
+.p-on-call .sw-3{--sw:#AEBB7C;--sw-grow:10;--sw-label:#242424}
+.p-on-call .sw-4{--sw:#B4341F;--sw-grow:10;--sw-label:#FFFFFF}
+.p-on-call .sw-5{--sw:#62D2B0;--sw-grow:6;--sw-label:#242424}
